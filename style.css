@@ -1,0 +1,12 @@
+body{
+    background-color: #6f3ff7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainHeading {
+    color: black;
+}
+
+.highlight{
+    color: red;
+}
