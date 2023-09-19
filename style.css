@@ -1,8 +1,20 @@
 body{
     background-color: #6f3ff7;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
+h1{
+    margin: 0px;
+}
+
+
+td{
+    border: black;
+}
+
+
+/*Intro*/
 #mainHeading {
     color: black;
 }
@@ -14,10 +26,44 @@ body{
 #introText{
     width: 694px; 
     float: left;
-
 }
 
 #profilePicture{
     float: left;
+}
 
+
+
+/*Hobbies*/
+#hobbyImage{
+    width: 372px;
+    float: right;
+    border-radius: 40px;
+}
+
+#hobbies{
+    width: 254px;
+    float: right;
+}
+
+#meme{
+    float: left;
+    border-radius: 40px;
+}
+
+#topContainer{
+    width: 1143px;
+    float: left;
+}
+
+
+/*Socials*/
+#socials{
+    float: left;
+    margin: 200px 0px 0px 30px;
+}
+
+#pageContainer{
+    width: 1440px;
+    margin: 0px auto 0px auto;
 }
